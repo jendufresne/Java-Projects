@@ -1,0 +1,11 @@
+You have won on slot machiene 3! You won $1.75. There are 80 quarters left in the jar. You have $20.0 left in the jar.
+You have won on slot machiene 3! You won $1.75. There are 60 quarters left in the jar. You have $15.0 left in the jar.
+You have won on slot machiene 3! You won $1.75. There are 40 quarters left in the jar. You have $10.0 left in the jar.
+You have won on slot machiene 1! You won $6.25. There are 49 quarters left in the jar. You have $12.25 left in the jar.
+You have won on slot machiene 3! You won $1.75. There are 45 quarters left in the jar. You have $11.25 left in the jar.
+You have won on slot machiene 3! You won $1.75. There are 25 quarters left in the jar. You have $6.25 left in the jar.
+You are out of quarters.
+You played slot 1 54 times.
+You played slot 2 53 times.
+You played slot 3 53 times.
+You played slots a total of 160 times.
